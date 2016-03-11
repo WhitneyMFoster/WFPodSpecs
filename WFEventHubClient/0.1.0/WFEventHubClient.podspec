@@ -36,7 +36,7 @@ s.homepage = "https://github.com/WhitneyMFoster/WFEventHubClient"
 
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://github.com/WhitneyMFoster/WFEventHubClient.git", :commit => "8a3fc99879745b61845b76e8aa20323d413ce4f2", :tag => "#{s.version}" }
+s.source = { :git => "https://github.com/WhitneyMFoster/WFEventHubClient.git", :tag => "#{s.version}" }
 
 # For example,
 # s.source = { :git => "https://github.com/JRG-Developer/RWPickFlavor.git", :tag => "#{s.version}"}
